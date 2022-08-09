@@ -31,7 +31,6 @@ chmod 777 alive-enum.sh
 
 ```
 
-https://user-images.githubusercontent.com/52566434/183719875-68de48da-8219-46ba-ae37-e21554dec52e.mp4
 
-
+https://user-images.githubusercontent.com/52566434/183722610-a73892ef-7669-40e8-bd01-963e2502f014.mp4
 
