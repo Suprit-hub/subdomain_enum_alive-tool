@@ -30,3 +30,8 @@ chmod 777 alive-enum.sh
 ./alive-enum.sh <domain>
 
 ```
+
+https://user-images.githubusercontent.com/52566434/183719875-68de48da-8219-46ba-ae37-e21554dec52e.mp4
+
+
+
