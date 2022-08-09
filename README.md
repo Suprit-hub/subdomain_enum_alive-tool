@@ -6,8 +6,8 @@ This script to automate the process of Subdomain enumeration .It will find assoc
 2) Beginners friendly
 3) Easy to use
 
-```
 **Installation**
+```
 Just, Clone this repository -
 
 git clone https://github.com/Suprit-hub/subdomain_enum_alive-tool.git
